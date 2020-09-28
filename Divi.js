@@ -52,4 +52,4 @@ How To Edit & Change The Default Blue Color Bar On Divi Mobile Menu
 .et_mobile_menu {
 border-top: 3px solid #ff0000 !important;
 }
-<a href="https://www.successwithwp101.com/divi-theme-tutorials/">Divi All </a>
+<a href="https://www.successwithwp101.com/divi-theme-tutorials/">Visit Divi Site!</a>
